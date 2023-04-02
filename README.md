@@ -1,5 +1,10 @@
-### Hi there 👋
+### 💻 About me 💻
 
+* 📗 I'm 19 years old, studying in Peter the Great St.Petersburg Polytechnic University on the 2nd course on Information security 
+
+* 🌱 I’m currently learning Operating systems
+
+* 📫 How to reach me: [tg](t.me/sergejgw11)
 <!--
 **greyworm11/greyworm11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
