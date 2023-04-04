@@ -4,7 +4,7 @@
 
 * 🌱 I’m currently learning Operating systems
 
-* 📫 How to reach me: [tg](t.me/sergejgw11)
+* 📫 How to reach me: [telegram](t.me/sergejgw11), mail: sergej.poshekhonov@gmail.com
 <!--
 **greyworm11/greyworm11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
