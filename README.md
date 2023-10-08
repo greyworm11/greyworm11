@@ -2,7 +2,7 @@
 
 * 📗 I'm 20 years old, studying in Peter the Great St.Petersburg Polytechnic University on the 3rd course on Information security 
 
-* 📫 How to reach me: [telegram](t.me/sergejgw11), mail: sergej.poshekhonov@gmail.com
+* 📫 How to reach me: [telegram](t.me/sergejgw11)
 <!--
 **greyworm11/greyworm11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
